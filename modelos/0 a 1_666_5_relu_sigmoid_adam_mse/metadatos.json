@@ -1,0 +1,1 @@
+{"num_capas": 5, "tipo_datos": "0 a 1", "raiz_modelos": "modelos/", "semilla": 666, "forma_entrada": [3], "act_interna": ["relu", "relu"], "act_externa": ["sigmoid", "sigmoid"], "optimizador": ["adam", "adam"], "f_coste": ["mse", "mse"]}

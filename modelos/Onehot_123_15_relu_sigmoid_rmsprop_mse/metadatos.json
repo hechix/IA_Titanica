@@ -1,0 +1,1 @@
+{"num_capas": 15, "tipo_datos": "Onehot", "raiz_modelos": "modelos/", "semilla": 123, "forma_entrada": [6], "act_interna": ["relu", "relu"], "act_externa": ["sigmoid", "sigmoid"], "optimizador": ["rmsprop", "rmsprop"], "f_coste": ["mse", "mse"]}

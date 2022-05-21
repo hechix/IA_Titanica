@@ -1,0 +1,1 @@
+{"num_capas": 13, "tipo_datos": "Onehot", "raiz_modelos": "modelos/", "semilla": 123, "forma_entrada": [6], "act_interna": ["softmax", "softmax"], "act_externa": ["sigmoid", "sigmoid"], "optimizador": ["adamax", "adamax"], "f_coste": ["mse", "mse"]}
